@@ -1,0 +1,17 @@
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment directories
+venv/
+.env/
+
+# SQLite database file
+*.db
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
