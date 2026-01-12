@@ -1,8 +1,10 @@
 <div align="center">
 
+
 # 🔐 SecureVault Pro - Advanced Password Management System
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=700&lines=Enterprise+Password+Security+Solution;AES+Encryption+%26+SQLite+Database;Secure+Digital+Identity+Management;Privacy-First+Security+Platform)](https://git.io/typing-svg)
+
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -14,6 +16,17 @@
 
 [🚀 Quick Start](#-installation--setup) • [📖 Documentation](#-project-overview) • [🔒 Security](#-security-architecture) • [💡 Usage](#-usage-guide) • [🤝 Support](#-support)
 
+</div>
+
+---
+
+<div align="center">
+  <p><strong>🔒 Archived on 12 January 2026</strong></p>
+  <p>
+    This project is no longer under active development.<br>
+    The repository remains available for reference and reuse.<br>
+    For questions or collaboration, please contact the maintainer.
+  </p>
 </div>
 
 ---
